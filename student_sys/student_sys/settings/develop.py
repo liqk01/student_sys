@@ -11,7 +11,7 @@ DATABASES = {
         'PORT': 3306,
         'NAME': 'student',
         'USER': 'root',
-        'PASSWORD': '1wSslhfHpPLh7',
+        'PASSWORD': '*******',
         'HOST': 'localhost',
         'TEST':{
             'NAME': 'student_test'
